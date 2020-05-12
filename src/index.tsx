@@ -2,7 +2,7 @@ import * as Sentry from '@sentry/browser'
 import 'mobx-react-lite/batchingForReactDom'
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
+import AppReact from './App'
 import * as serviceWorker from './serviceWorker'
 
 Sentry.init({
@@ -12,7 +12,7 @@ Sentry.init({
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AppReact />
   </React.StrictMode>,
   document.getElementById('root')
 )

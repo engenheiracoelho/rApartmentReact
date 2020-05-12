@@ -1,17 +1,25 @@
 # rApartment
 
+---
 
-## Description
+A simple applications to control common area booking on condominium .
 
-Booking of common area.
+### Configuration
 
-## Features
+### Install
 
-* Create new CommonArea;
-* Verify booking;
-* 
-*
+#### Using npm
 
+```bash
+npm install
+yarn build
+```
+
+#### Start project
+
+```bash
+yarn start
+```
 
 ## Thanks
 
