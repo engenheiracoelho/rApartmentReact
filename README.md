@@ -3,7 +3,7 @@
 
 ## Description
 
-Timer for fitness activity.
+Booking of common area.
 
 ## Features
 
