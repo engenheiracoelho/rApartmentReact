@@ -1,0 +1,1 @@
+export { speak } from './speak'
