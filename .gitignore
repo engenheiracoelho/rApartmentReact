@@ -13,6 +13,9 @@ target/
 .springBeans
 .sts4-cache
 
+### Modules ###
+*/node_modules
+
 ### IntelliJ IDEA ###
 .idea/
 .idea
