@@ -10,6 +10,10 @@ export const CreateCommonArea: React.FC = () => {
                 <Text as='h2' fontSize='2em'>
                     Cadastro de área comum
                 </Text>
+
+                // eslint-disable-next-line
+              {/*//  Show commonArea <CommonArea commonArea={this.state.commonArea} />*/}
+
                 <form
                     onSubmit={(e) => {
                         e.preventDefault()
